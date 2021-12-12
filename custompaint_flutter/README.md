@@ -1,16 +1,1 @@
-# custompaint_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the following project, you need to follow the following steps: 1- CLone the whole project in a folder or download the complete project as a zip file and extract it in a folder 2- OPEN THE DOWNLOADED FILES IN YOUR CODE EDITOR 4- open the terminal in the same folder 5- Install all dependencies by using the command "flutter pub get" command 6- now you can run the flutter app by using the command "flutter run"
